@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/magic-eden-challenge/static/css/main.073c9b0a.css",
+    "main.js": "/magic-eden-challenge/static/js/main.0833fe5a.js",
+    "static/js/787.61215324.chunk.js": "/magic-eden-challenge/static/js/787.61215324.chunk.js",
+    "index.html": "/magic-eden-challenge/index.html",
+    "main.073c9b0a.css.map": "/magic-eden-challenge/static/css/main.073c9b0a.css.map",
+    "main.0833fe5a.js.map": "/magic-eden-challenge/static/js/main.0833fe5a.js.map",
+    "787.61215324.chunk.js.map": "/magic-eden-challenge/static/js/787.61215324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0833fe5a.js"
+  ]
+}
